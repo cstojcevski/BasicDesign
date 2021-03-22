@@ -1,0 +1,12 @@
+h1 {
+    color:aquamarine;font-size:12px;
+    border-style: dotted;
+    }
+
+p.one {
+    border-style: solid;
+    border-color: blue;}
+
+    body {
+        background-color:chartreuse;
+    }
